@@ -8,8 +8,6 @@ A simple React application created with Vite, implementing a basic signup and lo
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
